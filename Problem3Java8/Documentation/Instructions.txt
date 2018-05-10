@@ -1,0 +1,56 @@
+
+How to run this program?
+
+Run this just like any simple java program. 
+
+Which IDE is used for development?
+
+Eclipse.
+
+Where is the input file? Should I change the input file path before running?
+
+Yes!
+
+1. Go to ReadFileAndProcess.java file
+
+2. The default input file is given at the below bath.
+   You must change the inputPath1 before running this program.
+   It depends where the project is located.
+   
+   Recommended: Save the project in a workspace and give the path of the workspace in the string inputPath1.
+
+   String inputPath1 = "/Users/***********/Documents/WorkspaceGalaxyGuide/";
+   String inputPath2 = "Problem3Java8/input/";
+   String inputFileName = "input.txt";
+
+3. The inputPath2 and inputFileName can remain the same for running the default input file.
+
+Where is the output file? Should I change the output file path before running?
+
+Yes!
+
+1. Go to ReadFileAndProcess.java file
+
+2. The default output file is given at the below bath.
+   You must change the outputPath1 before running this program.
+   It depends where the project is located.
+   
+   Recommended: Save the project in a workspace and give the path of the workspace in the string outputPath1.
+
+   String outputPath1 = "/Users/***********/Documents/WorkspaceGalaxyGuide/";
+   String outputPath2 = "Problem3Java8/output/";
+   String outputFileName = "output.txt";
+
+3. The outPath2 and outputFileName can remain the same for the default location.
+
+Important:
+
+Variables inputPath1 and outputPath1 should be changed to where the project is saved in your machine. 
+Otherwise you will encounter NoSuchFileException.
+
+
+
+
+
+
+

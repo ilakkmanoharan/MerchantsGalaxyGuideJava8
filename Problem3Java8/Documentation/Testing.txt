@@ -1,0 +1,30 @@
+You can test for various input in two ways:
+
+1.You can use input from files 
+2. And/Or use the test class: ParameterizedTest.
+
+if you are using the input files, please change the path of the input files in the ReadFileAndProcess.java as given in the instructions.
+
+Please feel free to delete the output file which is already generated in the output folder and test again.
+
+I have added few tests to the ParameterizedTest, please feel free to add additional tests.
+
+There are 2 Parameterized tests:
+
+1.ParameterizedTest_CalculateTotalCredits.java 
+
+We are the testing the CalculateTotalCredits(String galaticUnit) method.
+The input is a list of strings. Output is the total credit in double
+
+Example:
+Input: Galatic unit "pish tegj glob glob" is broken into list of strings: ["pish", "tegj", "glob", "glob"]
+Output is 42.
+
+2.ParameterizedTest_ProcessRomanNumeral.java 
+
+We are the testing the ProcessRomanNumeral(String galaticNumeralPart) method.
+The input is a roman numeral part of galatic unit in String. Output is the credit of numeral part in double
+
+Example:
+Input: "II"
+Output: 2

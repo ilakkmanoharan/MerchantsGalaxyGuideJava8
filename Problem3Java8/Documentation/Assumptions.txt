@@ -1,0 +1,3 @@
+The only assumption in this program is that the code works only for the following metals:
+
+Silver, Gold, Iron
