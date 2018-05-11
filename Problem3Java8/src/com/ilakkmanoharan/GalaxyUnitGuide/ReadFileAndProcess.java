@@ -1,3 +1,7 @@
+/* Copyright (C) 2017 Ilakkuvaselvi Manoharan - All Rights Reserved
+ * 
+ */
+
 package com.ilakkmanoharan.GalaxyUnitGuide;
 import java.io.BufferedWriter;
 import java.io.FileWriter;
