@@ -1,3 +1,8 @@
+/* Copyright (C) 2018 Ilakkuvaselvi Manoharan - All Rights Reserved
+ * 
+ */
+
+
 package com.ilakkmanoharan.GalaxyUnitGuide;
 import java.util.ArrayList;
 import java.util.Arrays;
